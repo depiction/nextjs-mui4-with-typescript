@@ -1,5 +1,7 @@
 # Next.js with TypeScript example
 
+Demo to show class name warning mentioned in https://github.com/vercel/next.js/issues/36284
+
 ## How to use
 
 Download the example [or clone the repo](https://github.com/mui/material-ui):
@@ -14,8 +16,8 @@ cd nextjs-with-typescript
 Install it and run:
 
 ```sh
-npm install
-npm run dev
+yarn install
+yarn dev
 ```
 
 or:
